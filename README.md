@@ -1,5 +1,3 @@
-Here is the formatted Markdown for your project. You can copy and paste this directly into your `README.md` file.
-
 ***
 
 # Crypto-Pattern-ML
